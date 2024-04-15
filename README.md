@@ -2,7 +2,7 @@
 
 **Client:** GadgetBazaar — electronics retailer
 **Delivered:** April 2024
-**Fee:** $150
+**Fee:** $40
 
 ## The Problem
 Client needed daily visibility into a competitor's pricing but had no way to automatically track changes.
